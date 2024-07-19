@@ -1,16 +1,17 @@
-## Hi there 👋
+<h2> Hello there, I'm Enrico Menicucci <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2>
 
-<!--
-**menicucci1/menicucci1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width='150'/> 
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enrico-menicucci-293350241/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I am a software engineering student from Brazil, currently focused and engaged in learning and building systems using Java. 
+
+
+## 📊 Stats
+
+<div align="center">
+    <img alt="Dario De Nardi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=menicucci1&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=0078D4&icon_color=0078D4" height="200"/>
+    <img src="https://streak-stats.demolab.com/?user=menicucci1&theme=react&hide_border=true&background=0D1117&border=30A3DC&dates=FFF)](https://git.io/streak-stats)" />
+  </div>
+</div>s
