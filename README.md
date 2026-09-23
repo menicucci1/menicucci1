@@ -6,7 +6,7 @@
 
 <p align="center">
   Software Engineering student from Brazil<br>
-  Focused on learning and building systems
+  Focused on learning and building systems<br>
   Always exploring new technologies and development best practices
 </p>
 
